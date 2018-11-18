@@ -81,11 +81,6 @@
 	</g>
 </g>
 <rect x="568.5" y="327.9" transform="matrix(0.8595 -0.5111 0.5111 0.8595 -134.9227 427.3338)" class="st8" width="282.9" height="262.5"/>
-<g transform="matrix(1 0 0 1 0 3.051758e-05)">
-	
-		<image style="overflow:visible;enable-background:new    ;" width="862" height="862" id="S4INT3Gaming_Logo_1_" xlink:href="D2BF230.png"  transform="matrix(0.2431 -0.1446 0.1341 0.2256 538.5132 409.4862)">
-	</image>
-</g>
 <g>
 	<g>
 		<path class="st9" d="M105.2,544.5c-40.5-2.8-75.8-20.3-87.3-30.5C6.4,503.7,0.4,482.4,0.4,482.4C0,497.4,0,508.7,0,508.7
@@ -354,5 +349,10 @@
 			 M247.1,134.2h2.5c1,0,1.5-0.4,1.5-1.1c0-0.9-0.7-1.1-1.5-1.1h-2.4v2.2L247.1,134.2L247.1,134.2z"/>
 		<path class="st29" d="M254.1,131h6.2v1.1h-4.7v1.9h4.3v1h-4.3v2.1h4.7v1.1h-6.2L254.1,131L254.1,131z"/>
 	</g>
+</g>
+<g transform="matrix(1 0 0 1 0 3.051758e-05)">
+	
+		<image style="overflow:visible;enable-background:new    ;" width="862" height="862" id="S4INT3Gaming_Logo_1_" xlink:href="D2BF233.png"  transform="matrix(0.2431 -0.1446 0.1341 0.2256 547.3273 405.589)">
+	</image>
 </g>
 </svg>
