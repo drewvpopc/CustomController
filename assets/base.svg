@@ -11,7 +11,7 @@
 	.st5{fill:#121212;}
 	.st6{fill:#080808;}
 	.st7{fill:#B8B8B8;}
-	.st8{clip-path:url(#SVGID_2_);}
+	.st8{fill:none;}
 	.st9{opacity:0.1;fill:#A8A8A8;enable-background:new    ;}
 	.st10{opacity:0.8;fill:#A8A8A8;enable-background:new    ;}
 	.st11{opacity:0.22;enable-background:new    ;}
@@ -83,21 +83,12 @@
 			</g>
 		</g>
 	</g>
-	<g id="SGLogo.psd_1_">
-		<g>
-			<defs>
-				
-					<rect id="SVGID_1_" x="568.5" y="327.9" transform="matrix(0.8595 -0.5111 0.5111 0.8595 -134.9227 427.3338)" width="282.9" height="262.5"/>
-			</defs>
-			<clipPath id="SVGID_2_">
-				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
-			</clipPath>
-			<g transform="matrix(1 0 0 1 0 3.051758e-05)" class="st8">
-				
-					<image style="overflow:visible;enable-background:new    ;" width="862" height="862" id="S4INT3Gaming_Logo_1_" xlink:href="D2BF236.png"  transform="matrix(0.2431 -0.1446 0.1341 0.2256 538.5132 409.4862)">
-				</image>
-			</g>
-		</g>
+	
+		<rect x="568.5" y="327.9" transform="matrix(0.8595 -0.5111 0.5111 0.8595 -134.9227 427.3338)" class="st8" width="282.9" height="262.5"/>
+	<g transform="matrix(1 0 0 1 0 3.051758e-05)">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="862" height="862" id="S4INT3Gaming_Logo_1_" xlink:href="D2BF231.png"  transform="matrix(0.2431 -0.1446 0.1341 0.2256 538.5132 409.4862)">
+		</image>
 	</g>
 </g>
 <g>
