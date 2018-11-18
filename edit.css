@@ -1,6 +1,6 @@
 .controller.ds4.white {
     background: url('assets/base.svg")
-        }
+}
 
 .ds4.white .face {
     filter: grayscale() brightness(2.8);
