@@ -199,6 +199,9 @@
 			h111.9l0,0h111.9c8.6,0,15.6-7,15.6-15.6V129.9L530.9,123.8z"/>
 		<g class="st16">
 			<path class="st17" d="M276,253.3c0,8.6,7,15.6,15.6,15.6h111.9l0,0h111.9c8.6,0,15.6-7,15.6-15.6V146.9H276V253.3z"/>
+			
+				<image style="overflow:visible;enable-background:new    ;" width="862" height="862" id="S4INT3Gaming_Logo_1_" xlink:href="805CFF6A.png"  transform="matrix(0.1283 1.040862e-04 -1.436833e-04 0.1333 347.7768 150.4499)">
+			</image>
 		</g>
 	</g>
 </g>
@@ -351,8 +354,5 @@
 	</g>
 </g>
 <g transform="matrix(1 0 0 1 0 3.051758e-05)">
-	
-		<image style="overflow:visible;enable-background:new    ;" width="862" height="862" id="S4INT3Gaming_Logo_1_" xlink:href="D2BF23D.png"  transform="matrix(0.2431 -0.1446 0.1341 0.2256 547.3273 405.589)">
-	</image>
 </g>
 </svg>
